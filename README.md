@@ -1,6 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C9FF,50:3A86FF,100:8338EC&text=CH%20VENKATESH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20Developer%20%7C%20React%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,12,20,24,30&text=Venkatesh%20Chinnaboyina&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Developer%20%7C%20Spring%20Boot%20Developer%20%7C%20React%20Developer%20%7C%20Microservices%20Developer&descSize=18&descAlignY=58"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&multiline=false&repeat=true&width=1100&lines=%F0%9F%9A%80+Java+Full+Stack+Developer;%F0%9F%94%A5+MERN+Stack+Developer;%E2%98%95+Spring+Boot+Developer;%E2%9A%A1+React.js+Developer;%F0%9F%94%97+REST+API+Developer;%F0%9F%94%90+Spring+Security+%7C+JWT;%E2%98%81%EF%B8%8F+AWS+Cloud+Learner;%F0%9F%90%B3+Docker+Enthusiast;%F0%9F%A7%A9+Microservices+Architecture;%F0%9F%92%BB+Always+Learning+New+Technologies"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/💼-OPEN_TO_WORK-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk"/>
+<img src="https://img.shields.io/badge/Spring_Boot-Developer-brightgreen?style=for-the-badge&logo=springboot"/>
+<img src="https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React.js-Developer-61DAFB?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Microservices-Architecture-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws"/>
+
+<br><br>
+
+<img width="700" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7&margin-w=12&margin-h=12&no-frame=true"/>
 
 </div>
 
@@ -8,9 +30,9 @@
 
 <div align="center">
 
-# Hi 👋 I'm CH Venkatesh
+# Hi 👋 I'm Chinnaboyina Venkateswararao
 
-### 💻 Java Full Stack Developer
+### Full Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=900&height=80&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Microservices+Developer;REST+API+Developer;AWS+Cloud+Learner;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
 
