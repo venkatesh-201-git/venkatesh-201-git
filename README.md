@@ -220,7 +220,544 @@ Currently looking for opportunities as
 
 ---
 
+<div align="center"> 
+
+---
+
+# 📊 GitHub Statistics
+
 <div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Profile Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📅 GitHub Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/00C9FF/YOUR_GITHUB_USERNAME" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+# ⚡ Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📊 Productive Time
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 📚 Repository Statistics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 💻 General Statistics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🚀 GitHub Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark"/>
+
+</div>
+
+---
+
+# 💬 Random Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 😂 Random Programming Joke
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🌎 Connect Around the World
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Java-FullStack-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SpringBoot-Developer-brightgreen?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/React-Developer-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Microservices-Architecture-red?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌟 Support My Work
+
+<div align="center">
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Contact-Me-red?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/Follow-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+> This animation requires a GitHub Action, which I'll provide in **Part 4**.
+
+```md
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+```
+
+---
+
+# ✨ Fun Developer GIF
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Keep Coding • Keep Learning • Keep Growing ⭐
+
+</div>
+
+ ---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+## 🌟 Real-World Projects
+
+<i>Building scalable applications with Java, Spring Boot, React & Cloud Technologies</i>
+
+</div>
+
+---
+
+## 🍔 Foodigo - Food Ordering Platform
+
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212744275-2b6d7f6c-fc1c-48f4-bb37-7d4b87d4d5d6.gif">
+
+### 🔥 Tech Stack
+
+`React.js` `Spring Boot` `Java` `MySQL` `REST API` `JWT`
+
+### ✨ Features
+
+- 🍕 Online Food Ordering
+- 🛒 Shopping Cart
+- 💳 Secure Checkout
+- 👤 User Authentication
+- 📱 Responsive UI
+- ⚡ Fast REST APIs
+
+**🔗 Live Demo:** https://cvr-foodigo.vercel.app
+
+**📂 Repository:** YOUR_FOODIGO_REPO
+
+---
+
+## 📚 Nation Young Authors
+
+<img align="right" width="320" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
+
+### 🚀 Tech Stack
+
+`React.js`
+
+`Node.js`
+
+`Express.js`
+
+`MongoDB`
+
+### Features
+
+📖 Book Publishing
+
+👨‍💼 Admin Dashboard
+
+📚 Author Management
+
+📝 Content Moderation
+
+🌐 Responsive Design
+
+🔗 Live Demo
+
+https://youngauthorsapp.com
+
+📂 Repository
+
+YOUR_AUTHORS_REPO
+
+---
+
+## 🛕 Temple Bells
+
+<img align="right" width="320" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
+
+### Tech Stack
+
+React.js
+
+Node.js
+
+Express.js
+
+MongoDB
+
+REST API
+
+### Features
+
+🙏 E-Darshan
+
+💰 Online Donations
+
+🏨 Accommodation Booking
+
+🍛 Prasadam Ordering
+
+📅 Seva Booking
+
+📱 Responsive UI
+
+🔗 Live Demo
+
+https://temple-bells.vercel.app
+
+📂 Repository
+
+YOUR_TEMPLEBELLS_REPO
+
+---
+
+## 💬 WhatsApp Notification Service
+
+<img align="right" width="320" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+
+### Tech Stack
+
+Java
+
+Spring Boot
+
+JWT
+
+MySQL
+
+Twilio API
+
+### Features
+
+✅ OTP Authentication
+
+✅ WhatsApp Notifications
+
+✅ REST APIs
+
+✅ CRUD Operations
+
+✅ JWT Security
+
+📂 Repository
+
+YOUR_WHATSAPP_REPO
+
+---
+
+## 💱 Currency Exchange Microservices
+
+<img align="right" width="320" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif">
+
+### Tech Stack
+
+Java
+
+Spring Boot
+
+Spring Cloud
+
+Microservices
+
+OpenFeign
+
+Eureka
+
+Docker
+
+### Features
+
+💱 Currency Conversion
+
+📡 REST Communication
+
+⚡ Load Balancing
+
+☁ Cloud Ready
+
+📂 Repository
+
+YOUR_MICROSERVICES_REPO
+
+---
+
+# 💼 Internship Experience
+
+## 🏢 Full Stack Developer Intern
+
+### Visdom Waves Innovations Pvt. Ltd.
+
+📍 Hyderabad
+
+🗓 Dec 2025 - Jun 2026
+
+### Responsibilities
+
+✔ Developed Production Applications
+
+✔ Spring Boot Backend
+
+✔ React Frontend
+
+✔ Designed REST APIs
+
+✔ JWT Authentication
+
+✔ Spring Security
+
+✔ AWS EC2 Deployment
+
+✔ Git & GitHub Workflow
+
+✔ Swagger Documentation
+
+✔ MySQL Optimization
+
+✔ Agile Development
+
+---
+
+# 🎓 Education
+
+## 🎓 Bachelor of Technology
+
+Computer Science & Engineering
+
+🏛 Tirumala Engineering College
+
+📅 2021 – 2025
+
+⭐ 80%
+
+---
+
+## 📚 Intermediate
+
+🏛 Vasavi Junior College
+
+📅 2019 – 2021
+
+⭐ 95.6%
+
+---
+
+## 🏫 SSC
+
+APBSE
+
+⭐ 90.25%
+
+---
+
+# 📜 Certifications
+
+🏅 Java Full Stack Development
+
+🏅 NPTEL Foundation of Cloud, IoT, Edge & Machine Learning
+
+🏅 Infosys Springboard Python Foundation
+
+🏅 TCS iON AI & ML Basics
+
+---
+
+# 🏅 Achievements
+
+🌟 Built Multiple Full Stack Projects
+
+🌟 Developed REST APIs
+
+🌟 AWS Deployment
+
+🌟 Microservices Development
+
+🌟 GitHub Open Source Learning
+
+🌟 Java Full Stack Certification
+
+🌟 React Applications
+
+🌟 Spring Boot Projects
+
+---
+
+# 🌱 Currently Learning
+
+☁ AWS Advanced Services
+
+🐳 Docker
+
+☸ Kubernetes
+
+🏗 System Design
+
+⚡ Spring Cloud
+
+🧩 Design Patterns
+
+📊 Data Structures & Algorithms
+
+---
+
+# 📬 Contact Me
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# ⭐ "Code • Learn • Build • Repeat"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:3A86FF,100:8338EC&height=120&section=footer"/>
+
+</div>
 
 ### ⭐ Thanks for visiting my profile ⭐
 
