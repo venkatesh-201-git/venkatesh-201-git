@@ -4,8 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+Java+Full+Stack+Developer;%F0%9F%94%A5+MERN+Stack+Developer;%E2%98%95+Spring+Boot+Developer;%E2%9A%A1+React.js+Developer;%F0%9F%94%97+REST+API+Developer;%F0%9F%94%90+Spring+Security+%7C+JWT;%F0%9F%A7%A9+Microservices+Architecture;%E2%98%81%EF%B8%8F+AWS+Cloud+Learner"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;MERN+Stack+Developer;Spring+Boot+Developer;React.js+Developer;REST+API+Developer;Spring+Security+%7C+JWT;Microservices+Architecture;AWS+Cloud+Learner;Quality+Assurance+Testing;AI+and+ML+Enthusiast;Always+Learning+New+Technologies;Adapting+to+Future+Tech+Demands;Ready+to+Work+on+Anything"/>
 <br><br>
 
 <img src="https://img.shields.io/badge/💼-OPEN_TO_WORK-success?style=for-the-badge"/>
@@ -26,15 +25,16 @@
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Hi, I'm **Chinnaboyina Venkateswararao** 👋 — a passionate **Java Full Stack Developer** from India 🇮🇳.
+Hi, I'm **Chinnaboyina Venkateswararao**  — a passionate **Full Stack Developer** from India 🇮🇳.
 
 I love building scalable, secure, and modern web applications using **Java, Spring Boot, and React**. I have hands-on experience developing real-world applications, REST APIs, microservices, authentication systems, cloud deployment, and database design.
 
 **Currently looking for opportunities as:**
-- ✅ Java Developer
-- ✅ Spring Boot Developer
-- ✅ Full Stack Developer
-- ✅ Software Engineer
+-  Java Developer
+-  Spring Boot Developer
+-  Full Stack Developer
+-  Software Engineer
+-  React Developer
 
 <br clear="right">
 
@@ -43,9 +43,9 @@ I love building scalable, secure, and modern web applications using **Java, Spri
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge"/></a>
+<a href="[YOUR_PORTFOLIO_URL](https://cvr-portfolio.vercel.app/)"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge"/></a>
 <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
+<a href="mailto:chvenkatesh542@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
 <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
 <a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
 <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x"/></a>
@@ -61,11 +61,11 @@ I love building scalable, secure, and modern web applications using **Java, Spri
 
 | Category | Technologies |
 |---|---|
-| ⚙️ **Backend** | Java · Spring Boot · Spring MVC · Spring Security · Microservices · REST API · JWT · Hibernate · Maven |
-| 🎨 **Frontend** | React.js · HTML5 · CSS3 · JavaScript · Bootstrap · Tailwind CSS |
-| 🗄️ **Database** | MySQL · MongoDB |
-| ☁️ **Cloud & DevOps** | AWS · Docker · Git · GitHub |
-| 🧰 **Tools** | Postman · Swagger · VS Code · Eclipse · IntelliJ IDEA · Jira |
+|  **Backend** | Java · Spring Boot · Spring MVC · Spring Security · Microservices · REST API · JWT · Hibernate · Maven |
+|  **Frontend** | React.js · HTML5 · CSS3 · JavaScript · Bootstrap · Tailwind CSS |
+|  **Database** | MySQL · MongoDB |
+|  **Cloud & DevOps** | AWS · Docker · Git · GitHub |
+|  **Tools** | Postman · Swagger · VS Code · Eclipse · IntelliJ IDEA · Jira |
 
 ---
 
@@ -128,19 +128,19 @@ Microservices-based currency conversion system with service discovery, load bala
 
 ## 📜 Certifications
 
-- 🏅 Java Full Stack Development
-- 🏅 NPTEL — Foundation of Cloud, IoT, Edge & Machine Learning
-- 🏅 Infosys Springboard — Python Foundation
-- 🏅 TCS iON — AI & ML Basics
+-  Java Full Stack Development
+-  NPTEL — Foundation of Cloud, IoT, Edge & Machine Learning
+-  Infosys Springboard — Python Foundation
+-  TCS iON — AI & ML Basics
 
 ---
 
 ## 🏅 Achievements
 
-- 🌟 Built multiple full stack projects across Java and MERN
-- 🌟 Developed REST APIs and microservices
-- 🌟 Active open-source learner on GitHub
-- 🌟 Java Full Stack Certified
+- Built multiple full stack projects across Java and MERN
+- Developed REST APIs and microservices
+- Active open-source learner on GitHub
+- Java Full Stack Certified
 
 ---
 
