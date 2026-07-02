@@ -41,14 +41,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650">
-
-</div>
-
----
-
 # 👨‍💻 About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -73,41 +65,6 @@ Currently looking for opportunities as
 
 ---
 
-## 🌟 Professional Summary
-
-✔ Java Full Stack Developer
-
-✔ Spring Boot Expert
-
-✔ React Developer
-
-✔ REST API Development
-
-✔ JWT Authentication
-
-✔ Spring Security
-
-✔ Microservices
-
-✔ AWS EC2 Deployment
-
-✔ Docker Basics
-
-✔ Maven
-
-✔ Hibernate
-
-✔ MySQL
-
-✔ MongoDB
-
-✔ Git & GitHub
-
-✔ Agile Development
-
-✔ Problem Solving
-
----
 
 # 🌐 Connect With Me
 
@@ -223,215 +180,7 @@ Currently looking for opportunities as
 
 ---
 
-# 🚀 Current Focus
 
-🌱 Learning Advanced Spring Boot
-
-🌱 Spring Cloud
-
-🌱 Kubernetes
-
-🌱 System Design
-
-🌱 AWS Services
-
-🌱 CI/CD
-
-🌱 Design Patterns
-
-🌱 DSA
-
----
-
-<div align="center"> 
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Profile Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 👀 Profile Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-# 📅 GitHub Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/00C9FF/YOUR_GITHUB_USERNAME" alt="Contribution Graph"/>
-
-</div>
-
----
-
-# ⚡ Coding Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📊 Productive Time
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
----
-
-# 📚 Repository Statistics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</div>
-
----
-
-# 💻 General Statistics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🚀 GitHub Metrics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark"/>
-
-</div>
-
----
-
-# 💬 Random Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-# 😂 Random Programming Joke
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-</div>
-
----
-
-# 🌎 Connect Around the World
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Java-FullStack-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SpringBoot-Developer-brightgreen?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/React-Developer-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Microservices-Architecture-red?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🌟 Support My Work
-
-<div align="center">
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Contact-Me-red?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/Follow-GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-# 🐍 Contribution Snake Animation
-
-> This animation requires a GitHub Action, which I'll provide in **Part 4**.
-
-```md
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
-```
-
----
 
 # ✨ Fun Developer GIF
 
@@ -632,39 +381,6 @@ YOUR_MICROSERVICES_REPO
 
 ---
 
-# 💼 Internship Experience
-
-## 🏢 Full Stack Developer Intern
-
-### Visdom Waves Innovations Pvt. Ltd.
-
-📍 Hyderabad
-
-🗓 Dec 2025 - Jun 2026
-
-### Responsibilities
-
-✔ Developed Production Applications
-
-✔ Spring Boot Backend
-
-✔ React Frontend
-
-✔ Designed REST APIs
-
-✔ JWT Authentication
-
-✔ Spring Security
-
-✔ AWS EC2 Deployment
-
-✔ Git & GitHub Workflow
-
-✔ Swagger Documentation
-
-✔ MySQL Optimization
-
-✔ Agile Development
 
 ---
 
@@ -692,7 +408,7 @@ Computer Science & Engineering
 
 ---
 
-## 🏫 SSC
+## 🏫 SSC (10th)
 
 APBSE
 
@@ -718,8 +434,6 @@ APBSE
 
 🌟 Developed REST APIs
 
-🌟 AWS Deployment
-
 🌟 Microservices Development
 
 🌟 GitHub Open Source Learning
@@ -730,47 +444,8 @@ APBSE
 
 🌟 Spring Boot Projects
 
+🌟 MERN Full stack 
 ---
-
-# 🌱 Currently Learning
-
-☁ AWS Advanced Services
-
-🐳 Docker
-
-☸ Kubernetes
-
-🏗 System Design
-
-⚡ Spring Cloud
-
-🧩 Design Patterns
-
-📊 Data Structures & Algorithms
-
----
-
-# 📬 Contact Me
-
-<div align="center">
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
 
 ---
 
