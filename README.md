@@ -122,7 +122,7 @@ Microservices-based currency conversion system with service discovery, load bala
 |---|---|---|---|
 | B.Tech, Computer Science & Engineering | Tirumala Engineering College | 2021 – 2025 | 80% |
 | Intermediate | Vasavi Junior College | 2019 – 2021 | 95.6% |
-| SSC (10th) | APBSE | — | 90.25% |
+| SSC (10th) | APBSE | 2018 - 2019 | 90.25% |
 
 ---
 
